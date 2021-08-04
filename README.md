@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+I+am+MD+YEASIN+SAMAD+ARNOB+!;AI+Researcher+%7C+Next+Developer+%7C+Software+Engineer)](https://git.io/typing-svg) 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Hi!+I+am+MD+YEASIN+SAMAD+ARNOB+!;AI+Researcher+%7C++Software+Engineer)](https://git.io/typing-svg) 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 **AI Researcher | Next Developer | Software Engineer**
 
