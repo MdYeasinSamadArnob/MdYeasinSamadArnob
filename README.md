@@ -17,6 +17,15 @@ I'm Oyakoya Curtis Ademola, a frontend Software Engineer with 4 years of experie
   <a href="https://www.instagram.com/curpra_code/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+ <h3>Quick Facts About Me</h3>
+ <p>
+  - 👋 Hi, I’m 
+- 👀 I’m interested in Cross-Platform Development
+- 🌱 I’m currently doing Research on PWA & ALgorithms
+- 💞️ I’m looking to Progress my Full Stack Development skills
+- 📫 How to reach me 
+
+  </p>
 **Want to stay in touch? You can find me here:**
 </div>
 - 👋 Hi, I’m 
