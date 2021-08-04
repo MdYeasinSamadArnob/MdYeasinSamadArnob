@@ -5,7 +5,7 @@
 
 ## Hi! I am MD YEASIN SAMAD ARNOB ! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-**FrontEnd Engineer | React Developer | Software Engineer**
+** AI Researcher | Next Developer | Software Engineer**
 
 I'm Oyakoya Curtis Ademola, a frontend Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work as freelancer, picking projects and building stuffs with JavaScript stacks. In my spare time, I enjoy watching movie, surfing the internet, and playing games.
 
