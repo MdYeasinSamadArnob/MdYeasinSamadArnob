@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## Hi! I am MD YEASIN SAMAD ARNOB ! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+I+am+MD+YEASIN+SAMAD+ARNOB+!;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg) 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 **AI Researcher | Next Developer | Software Engineer**
 
