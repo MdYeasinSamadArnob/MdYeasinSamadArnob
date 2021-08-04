@@ -1,8 +1,17 @@
 # Hi! I am MD YEASIN SAMAD ARNOB
 <!-- <img src="banner.gif" alt="banner"/> -->
-Here are some ideas to get you started:
 
-- 👋 Hi, I’m @MdYeasinSamadArnob
+<div align="center">
+
+## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+**FrontEnd Engineer | React Developer | Software Engineer**
+
+I'm Oyakoya Curtis Ademola, a frontend Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work as freelancer, picking projects and building stuffs with JavaScript stacks. In my spare time, I enjoy watching movie, surfing the internet, and playing games.
+
+**Want to stay in touch? You can find me here:**
+
+- 👋 Hi, I’m 
 - 👀 I’m interested in Cross-Platform Development
 - 🌱 I’m currently doing Research on PWA & ALgorithms
 - 💞️ I’m looking to Progress my Full Stack Development skills
