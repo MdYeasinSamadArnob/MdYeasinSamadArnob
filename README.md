@@ -1,19 +1,12 @@
-- 👋 Hi, I’m @MdYeasinSamadArnob
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-# Hi! I am <a href="https://smabtahinoor.vercel.app">S.M.Abtahi Noor</a>
+# Hi! I am MD YEASIN SAMAD ARNOB
 <!-- <img src="banner.gif" alt="banner"/> -->
 Here are some ideas to get you started:
 
-- 🔭 I read in class VIII at Dhaka Residential Model College. 
-- 🌱 I’m currently learning React.
-- 🌱 My hobbies are coding,painting.
-- 📫 How to reach me: <a href="https://www.facebook.com/abtahinoorsm"> Facebook Profile </a>, <a href="https://www.facebook.com/19smabtahinoor"> Facebook Page </a> , <a href="https://www.instagram.com/smabtahinoor">Instagram </a> ,<a href="https://www.twitter.com/smabtahinoor">Twitter </a>, <a href="https://www.linkedin.com/in/smabtahinoor/"> Linkedin </a>
-- 😄 Pronouns: He/His.
-- 📫 My Portfolio: <a href="https://smabtahinoor.vercel.app">S.M.Abtahi Noor </a>
+- 👋 Hi, I’m @MdYeasinSamadArnob
+- 👀 I’m interested in Cross-Platform Development
+- 🌱 I’m currently doing Research on PWA & ALgorithms
+- 💞️ I’m looking to Progress my Full Stack Development skills
+- 📫 How to reach me 
 
 <p align="left"> <a href="https://twitter.com/smabtahinoor" target="blank"><img src="https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge" alt="smabtahinoor" /></a> </p>
 
