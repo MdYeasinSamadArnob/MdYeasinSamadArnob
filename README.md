@@ -7,7 +7,7 @@
 
 **AI Researcher | Next Developer | Software Engineer**
 
-I'm Oyakoya Curtis Ademola, a frontend Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work as freelancer, picking projects and building stuffs with JavaScript stacks. In my spare time, I enjoy watching movie, surfing the internet, and playing games.
+I'm MD YEASIN SAMAD ARNOB, a Software Engineer with 2 years of experience & engaged in building inovative solutions. I am currently doing research, picking projects and building stuffs with JavaScript stacks. In my spare time, I explore interesting Algorithms & brainstorm for new Ideas.
  
  <h2>🌎 &nbsp;Where to find me</h2>
 <p>
