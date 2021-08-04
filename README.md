@@ -1,13 +1,9 @@
-<div align="center"> 
- 
-## Hi! I am MD YEASIN SAMAD ARNOB 
- 
-</div>
+
 <!-- <img src="banner.gif" alt="banner"/> -->
 
 <div align="center">
 
-## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi! I am MD YEASIN SAMAD ARNOB ! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 **FrontEnd Engineer | React Developer | Software Engineer**
 
