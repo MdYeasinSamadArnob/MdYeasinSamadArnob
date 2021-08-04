@@ -19,10 +19,10 @@ I'm Oyakoya Curtis Ademola, a frontend Software Engineer with 4 years of experie
 
  <h3>Quick Facts About Me</h3>
  <p>
-  - 👋 Hi, I’m 
-- 👀 I’m interested in Cross-Platform Development
-- 🌱 I’m currently doing Research on PWA & ALgorithms
-- 💞️ I’m looking to Progress my Full Stack Development skills
+- 👋 Hi, I’m <br>
+- 👀 I’m interested in Cross-Platform Development<br>
+- 🌱 I’m currently doing Research on PWA & ALgorithms<br>
+- 💞️ I’m looking to Progress my Full Stack Development skills<br>
 - 📫 How to reach me 
 
   </p>
