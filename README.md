@@ -26,13 +26,6 @@ I'm Oyakoya Curtis Ademola, a frontend Software Engineer with 4 years of experie
 - 📫 How to reach me 
 
   </p>
-**Want to stay in touch? You can find me here:**
-</div>
-- 👋 Hi, I’m 
-- 👀 I’m interested in Cross-Platform Development
-- 🌱 I’m currently doing Research on PWA & ALgorithms
-- 💞️ I’m looking to Progress my Full Stack Development skills
-- 📫 How to reach me 
 
 <p align="left"> <a href="https://twitter.com/smabtahinoor" target="blank"><img src="https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge" alt="smabtahinoor" /></a> </p>
 
