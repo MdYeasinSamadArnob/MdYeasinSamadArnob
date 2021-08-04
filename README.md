@@ -27,8 +27,6 @@ I'm Oyakoya Curtis Ademola, a frontend Software Engineer with 4 years of experie
 
   </p>
 
-<p align="left"> <a href="https://twitter.com/smabtahinoor" target="blank"><img src="https://img.shields.io/twitter/follow/smabtahinoor?logo=twitter&style=for-the-badge" alt="smabtahinoor" /></a> </p>
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=19smabtahinoor.19smabtahinoor)
 
 <h3 align="left">Connect with me:</h3>
