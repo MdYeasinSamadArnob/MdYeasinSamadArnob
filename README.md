@@ -9,7 +9,7 @@
 
 I'm MD YEASIN SAMAD ARNOB, a Software Engineer with 2 years of experience & engaged in building inovative solutions. I am currently doing research, picking projects and building stuffs with JavaScript stacks. In my spare time, I explore interesting Algorithms & brainstorm for new Ideas.
  
- <h2>🌎 &nbsp;Where to find me</h2>
+ <h2>🌎 &nbsp;Where To Find Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/md-yeasin-samad-arnob-172720175/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--    <a href="https://twitter.com/curpra_code" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a> -->
