@@ -19,11 +19,11 @@ I'm MD YEASIN SAMAD ARNOB, a Software Engineer with 2 years of experience & enga
 
  <h2>🆎 Quick Facts About Me</h2>
  <p>
-- 👋 Hi, I’m Passionate about New Things <br>
+- 👋 Hi, I’m Passionate about NLP & NLU <br>
 - 👀 I’m interested in Cross-Platform Development<br>
-- 🌱 I’m currently doing Research on PWA & ALgorithms<br>
+- 🌱 I’m currently doing Research on PWA & ML ALgorithms<br>
 - 💞️ I’m looking to Progress my Full Stack Development skills<br>
-- 📫 Reach me for Collaboration
+- 📫 Reach me for Collaboration - FARM & MERN Stack
 
   </p>
 
