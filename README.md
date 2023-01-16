@@ -5,7 +5,7 @@
 
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Hi!+I+am+MD+YEASIN+SAMAD+ARNOB+!;AI+Researcher+%7C++Software+Engineer) 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-**AI Researcher | Next Developer | Software Engineer**
+**AI Researcher | Next Js Developer | Software Engineer**
 
 I'm MD YEASIN SAMAD ARNOB, a Software Engineer with 2 years of experience & engaged in building inovative solutions. I am currently doing research, picking projects and building stuffs with JavaScript stacks. In my spare time, I explore interesting Algorithms & brainstorm for new Ideas.
  
